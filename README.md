@@ -11,7 +11,6 @@ This project is an implementation of the well-known 'Connect 4' game.
 - [Game rules](#game-rules)
 - [Musical credits](#musical-credits)
 - [Run the project locally](#run-the-project-locally)
-- [Getting started with Vite](#getting-started-with-vite)
 - [Contributing](#contributing)
 - [Stay Updated](#stay-updated)
 - [Contact](#contact)
@@ -74,36 +73,6 @@ Licence : Pixabay Content License (Free Use)
 4. Install dependencies required in the project : `npm install`
 5. Run the application in development mode : `npm run dev`
 6. Open http://localhost:5173 in your preferred browser to view the development server.
-
-## Getting Started with Vite
-
-[Vite](https://vitejs.dev/) is a fast development tool for modern web applications. To get started with Vite, follow these simple steps :
-
-### 1. Install Node.js and npm
-
-Ensure you have Node.js and npm installed on your system. You can download and install them from the [official Node.js website](https://nodejs.org/en).
-
-### 2. Initialize the project
-
-If you have not already created a project, you can initialize a new project using the following command in your terminal : `npm init vite@latest my-project --template react`.
-
-This command will create a new directory named `my-project` and install a Vite project with a React template in it.
-
-### 3. Install dependencies
-
-Once the project is initialized, navigate to the newly created directory (`cd my-project`) and install the dependencies by running the command `npm install`.
-
-### 4. Start the development server
-
-To start the development server, use the command `npm run dev`.
-
-This will launch Vite and automatically open your default browser to http://localhost:5173, where you can see your live application.
-
-### 5. Deploy to production
-
-To build an optimized version of your application ready for production, use the command `npm run build`.
-
-This will generate a production-ready version of your application in the `dist` directory of your project.
 
 ## Contributing
 
